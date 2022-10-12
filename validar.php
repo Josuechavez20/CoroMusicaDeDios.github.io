@@ -6,7 +6,7 @@ $_clave=$_POST['clave']='20590237';
 
 if $usuario == 'usuario' and $_clave =='clave'{
     
-    header("panel.php");
+    header("panel.html");
 
 }  
 else{
