@@ -98,7 +98,7 @@ function validate(){
     else{
     Swal.fire({
             icon: 'error',
-            title: 'Algo solio mal',
+            title: 'Algo salio mal',
             text: 'No perteneces a este coro'
           })
     }
