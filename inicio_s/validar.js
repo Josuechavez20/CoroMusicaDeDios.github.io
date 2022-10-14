@@ -96,7 +96,11 @@ function validate(){
         return true;
     }
     else{
-    alert("TU NO PERTENECES A ESTE CORO INTENTA DE NUEVO POR FAVOR")
+    Swal.fire({
+            icon: 'error',
+            title: 'Algo solio mal',
+            text: 'No perteneces a este coro'
+          })
     }
 
 }
