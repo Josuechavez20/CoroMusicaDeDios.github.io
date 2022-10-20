@@ -7,9 +7,9 @@ function validateInicio(){
     if(password =="12345678"){
         
         Swal.fire({
-        icon: 'success',
-        title: 'CONTRASEÑA CORRETA',
-        text: 'BIENVENID@'
+            icon: 'success',
+            title: 'CONTRASEÑA CORRETA',
+            text: 'BIENVENID@'
         })
 
         window.location="P_secun/inicio.html";
