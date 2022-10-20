@@ -27,7 +27,7 @@ function Recordatorio1(){
     Swal.fire({
         //icon: 'error',
         title: 'MISA COMPLETADA',
-        //text: 'ㅤㅤFecha: 12 DE NOVIEMBRE 2022ㅤㅤㅤㅤㅤㅤHorario: 13:00 ㅤㅤㅤㅤㅤㅤLugar: El sauz Bajo'
+        //text: 'ㅤㅤㅤㅤFecha: 12 DE NOVIEMBRE 2022ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤHorario: 13:00ㅤㅤㅤㅤㅤ ㅤㅤLugar: El sauz Bajo'
       })
 }
 
