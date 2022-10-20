@@ -36,7 +36,7 @@ function Recordatorio2(){
     Swal.fire({
         //icon: 'error',
         title: 'Misa de boda',
-        text: 'Fecha: 12 DE NOVIEMBRE 2022ㅤㅤㅤㅤㅤㅤㅤㅤㅤHorario: 13:00ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤLugar: El sauz Bajo'
+        text: 'ㅤㅤFecha: 12 DE NOVIEMBRE 2022ㅤㅤㅤㅤㅤㅤㅤㅤㅤHorario: 13:00ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤLugar: El sauz Bajo'
       })
 }
 
