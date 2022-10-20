@@ -6,8 +6,14 @@ function validate(){
     var password=document.getElementById("password").value;
 
     if(usuar=="JosueC" && password=="20290237"){
-
-        window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+        
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenido',
+            text: 'JosueC'
+          })
+        
+          window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
 
         return true;
     
@@ -15,11 +21,23 @@ function validate(){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
 
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenido',
+            text: 'MiguelR'
+          })
+
         return true;
     }
     if(usuar=="LupillaH" && password=="20290239"){
 
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'LupillaH'
+          })
 
         return true;
     
@@ -27,11 +45,23 @@ function validate(){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
 
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'LupitaR'
+          })
+
         return true;
     }
     if(usuar=="YoselinR" && password=="20290241"){
 
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'YoselinR'
+          })
 
         return true;
     
@@ -39,11 +69,23 @@ function validate(){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
 
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'DannaG'
+          })
+
         return true;
     }
     if(usuar=="MarianaR" && password=="20290243"){
 
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'MarianaR'
+          })
 
         return true;
     
@@ -51,11 +93,23 @@ function validate(){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
 
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'VeroP'
+          })
+
         return true;
     }
     if(usuar=="MagdaR" && password=="20290245"){
 
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'MagdaR'
+          })
 
         return true;
     
@@ -63,11 +117,23 @@ function validate(){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
 
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'JuanaR'
+          })
+
         return true;
     }
     if(usuar=="PakoR" && password=="20290247"){
 
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenido',
+            text: 'PakoR'
+          })
 
         return true;
     
@@ -75,11 +141,23 @@ function validate(){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
 
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'RosyG'
+          })
+
         return true;
     }
     if(usuar=="ElsiV" && password=="20290249"){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'ElsiV'
+          })
 
         return true;
     }
@@ -87,11 +165,23 @@ function validate(){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
 
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenida',
+            text: 'PerlaM'
+          })
+
         return true;
     }
     if(usuar=="MiguelS" && password=="20290251"){
         
         window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'Bienvenido',
+            text: 'MiguelS'
+          })
 
         return true;
     }
