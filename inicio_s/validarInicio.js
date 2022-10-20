@@ -5,6 +5,12 @@ function validateInicio(){
     var password=document.getElementById("password").value;
 
     if(password =="12345678"){
+        
+        Swal.fire({
+        icon: 'success',
+        title: 'CONTRASEÑA CORRETA',
+        text: 'BIENVENID@'
+        })
 
         window.location="P_secun/inicio.html";
 
