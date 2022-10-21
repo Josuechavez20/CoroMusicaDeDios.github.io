@@ -8,7 +8,7 @@ function validateInicio(){
         
         Swal.fire({
             icon: 'success',
-            title: 'CONTRASEÑA CORRETA',
+            title: 'CONTRASEÑA CORRECTA',
             text: 'BIENVENID@'
         })
 
