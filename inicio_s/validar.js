@@ -9,7 +9,7 @@ function validate(){
         
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenido',
+            title: 'USUARIO CORRECTO',
             text: 'JosueC'
           })
         
@@ -23,7 +23,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenido',
+            title: 'USUARIO CORRECTO',
             text: 'MiguelR'
           })
 
@@ -35,7 +35,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'LupillaH'
           })
 
@@ -47,7 +47,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'LupitaR'
           })
 
@@ -59,7 +59,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'YoselinR'
           })
 
@@ -71,7 +71,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'DannaG'
           })
 
@@ -83,7 +83,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'MarianaR'
           })
 
@@ -95,7 +95,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'VeroP'
           })
 
@@ -107,7 +107,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'MagdaR'
           })
 
@@ -119,7 +119,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'JuanaR'
           })
 
@@ -131,7 +131,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenido',
+            title: 'USUARIO CORRECTO',
             text: 'PakoR'
           })
 
@@ -143,7 +143,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'RosyG'
           })
 
@@ -155,7 +155,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'ElsiV'
           })
 
@@ -167,7 +167,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenida',
+            title: 'USUARIO CORRECTO',
             text: 'PerlaM'
           })
 
@@ -179,7 +179,7 @@ function validate(){
 
         Swal.fire({
             icon: 'success',
-            title: 'Bienvenido',
+            title: 'USUARIO CORRECTO',
             text: 'MiguelS'
           })
 
