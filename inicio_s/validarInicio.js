@@ -2,29 +2,7 @@ var attempt=10;
 
 function validateInicio(){
 
-    var password=document.getElementById("password").value;
-
-    if(password =="12345678"){
-        
-        Swal.fire({
-            icon: 'success',
-            title: 'CONTRASEÑA CORRECTA',
-            text: 'BIENVENID@'
-        })
-
         window.location="P_secun/inicio.html";
-
-        return true;
-    
-    }
-    else{
-        
-        Swal.fire({
-            icon: 'error',
-            title: 'Lo siento  :(',
-            text: 'No perteneces a este coro'
-          })
-    }
 
 }
 
