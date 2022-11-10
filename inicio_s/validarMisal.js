@@ -186,8 +186,8 @@ function validateMisal(){
         
         Swal.fire({
             icon: 'error',
-            title: 'Algo salio mal',
-            text: 'No perteneces a este coro'
+            title: 'LO SIENDO :( ',
+            text: 'No tienes acceso a este apartado'
           })
     }
 }
