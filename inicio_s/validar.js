@@ -201,8 +201,8 @@ function validate(){
         
         Swal.fire({
             icon: 'error',
-            title: 'Algo salio mal',
-            text: 'No perteneces a este coro'
+            title: 'USUARIO Y CONTRASEÑA INCORRECTOS',
+            text: 'Intenta de nuevo'
           })
     }
     
