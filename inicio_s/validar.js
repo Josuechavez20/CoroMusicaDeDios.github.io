@@ -185,6 +185,18 @@ function validate(){
 
         return true;
     }
+    if(usuar=="Invitado" && password=="12345678"){
+        
+        window.location="https://drive.google.com/drive/folders/1SYFZ22KFjZxA4hBkrIoMhygNKVDPkV8Y?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'USUARIO CORRECTO',
+            text: 'MiguelS'
+          })
+
+        return true;
+    }
     else{
         
         Swal.fire({
@@ -193,5 +205,6 @@ function validate(){
             text: 'No perteneces a este coro'
           })
     }
+    
 
 }
