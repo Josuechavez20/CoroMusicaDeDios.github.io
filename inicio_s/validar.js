@@ -192,7 +192,7 @@ function validate(){
         Swal.fire({
             icon: 'success',
             title: 'USUARIO CORRECTO',
-            text: 'MiguelS'
+            text: 'BIENVENIDO USUARIO INVITADO'
           })
 
         return true;
