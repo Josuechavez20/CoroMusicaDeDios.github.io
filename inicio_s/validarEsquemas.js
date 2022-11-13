@@ -174,14 +174,6 @@ function validateEsquema(){
 
         return true;
     }
-    else{
-        
-        Swal.fire({
-            icon: 'error',
-            title: 'Algo salio mal',
-            text: 'No perteneces a este coro'
-          })
-    }
     if(usuar=="Invitado" && password=="12345678"){
       
         Swal.fire({
@@ -198,7 +190,7 @@ function validateEsquema(){
         Swal.fire({
             icon: 'error',
             title: 'Algo salio mal',
-            text: 'No perteneces a este coro'
+            text: 'Intenta de nuevo'
           })
     }
 }
