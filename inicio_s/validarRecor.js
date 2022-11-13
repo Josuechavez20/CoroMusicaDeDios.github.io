@@ -207,7 +207,7 @@ function validateRecor(){
       Swal.fire({
           icon: 'error',
           title: 'Algo salio mal',
-          text: 'No perteneces a este coro'
+          text: 'Intenta de nuevo'
         })
   }
 }
