@@ -185,12 +185,24 @@ function validate(){
 
         return true;
     }
+    if(usuar=="Invitado" && password=="12345678"){
+        
+        window.location="https://drive.google.com/drive/folders/1SYFZ22KFjZxA4hBkrIoMhygNKVDPkV8Y?usp=sharing";
+
+        Swal.fire({
+            icon: 'success',
+            title: 'USUARIO CORRECTO',
+            text: 'BIENVENIDO USUARIO INVITADO'
+          })
+
+        return true;
+    }
     else{
         
         Swal.fire({
             icon: 'error',
             title: 'Algo salio mal',
-            text: 'No perteneces a este coro'
+            text: 'Intenta de nuevo'
           })
     }
 
