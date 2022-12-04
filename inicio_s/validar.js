@@ -208,12 +208,5 @@ function validate(){
 
 }
 
-function validateAudio(){
 
-   Swal.fire({
-            icon: 'error',
-            title: 'Lo siento :(',
-            text: 'Tu invitacion no te permite usar esta funcion de escuchar audios'
-          })
-}
 
