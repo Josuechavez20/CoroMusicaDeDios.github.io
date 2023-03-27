@@ -4,7 +4,7 @@ function validate(){
     
     var password=document.getElementById("password").value;
 
-    if(password=="24681012"){
+    if(password=="2468"){
         
         Swal.fire({
             icon: 'success',
