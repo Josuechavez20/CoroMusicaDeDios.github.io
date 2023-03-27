@@ -1,8 +1,7 @@
 var attempt=10;
 
 function validate(){
-
-    var usuar=document.getElementById("usuar").value;
+    
     var password=document.getElementById("password").value;
 
     if(password=="24681012"){
