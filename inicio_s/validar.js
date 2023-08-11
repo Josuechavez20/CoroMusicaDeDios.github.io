@@ -12,7 +12,7 @@ function validate(){
             text: 'BIENVENIDO'
           })
         
-          window.location="......";
+          window.location=" ";
 
         return true;
     
