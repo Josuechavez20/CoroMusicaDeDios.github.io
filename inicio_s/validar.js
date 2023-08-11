@@ -12,7 +12,7 @@ function validate(){
             text: 'BIENVENIDO'
           })
         
-          window.location="https://drive.google.com/drive/folders/1LAgfabdNTv1pYnBtrQ_pC34j43QO6wT5?usp=sharing";
+          window.location="......";
 
         return true;
     
